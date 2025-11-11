@@ -61,4 +61,5 @@ CMDTUNES_THRESHOLD=3                        # Minimum command duration (seconds)
 CMDTUNES_MUSIC_FOLDER="$HOME/Music/灿烂"   # Folder to pick songs from
 ```
 
-## MIT License
+## License
+MIT License
